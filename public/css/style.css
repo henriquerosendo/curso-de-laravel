@@ -1,0 +1,16 @@
+*{
+    font-family: "Roboto";
+}
+
+
+.caixa{
+    border-style: solid;
+    border-color: red;
+    border-width: 1px;
+    margin: 30px;
+    background-color: rgb(162, 162, 162);
+}
+
+#navbar img{
+    width: 50px;
+}
